@@ -47,7 +47,7 @@ This project is set up to be extremely simple to run, with no build process requ
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd react-simple-blog
+    cd react-blog
     ```
 3.  **Open the `index.html` file in your web browser.** The CDN links will handle loading all necessary libraries automatically.
 
